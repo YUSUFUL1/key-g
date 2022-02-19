@@ -8,7 +8,7 @@
 
 3-) pkg install python -y
 
-4-) git clone https://github.com/coderbyburakg/key-g
+4-) git clone https://github.com/burakgresmi/key-g
 
 5-) cd
 
